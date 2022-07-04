@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640629257 source:c:\users\pvv\desktop\p10\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<queue>
+	<vector>
+
